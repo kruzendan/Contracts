@@ -10,7 +10,7 @@ contract PseudoToken {
     function mint(uint amount) public returns(uint){
         require(aauth == 1);
         require(balance < total);
-        balance = balance + amount;
+        balance = balance + balance + amount;
         
         return balance;
 

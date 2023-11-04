@@ -130,11 +130,11 @@
 	},
 	"sources": {
 		"contracts/Pseudotoken.sol": {
-			"keccak256": "0xeec00bb0ebfb7f30e87531e27c6a3fe95ec850caa6f031c9a28840b1d5b5aee1",
+			"keccak256": "0x3e87df2a5ddaf167874bc9ff758f70612deeeff6cf9c94158fe7524fc24f5185",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e96a24a2fb7fdd7944a2d58ebea660725220e50dbefb9752801db1ac718b5748",
-				"dweb:/ipfs/QmR4DFuvECTkLbAZdxf9aX1yUDx9qKErRor1sJkVdQ18Vb"
+				"bzz-raw://acb522420485d4075c7b7b3caa5ee0c3d7bc4a5b10f8f7cc0b673b3691edfb45",
+				"dweb:/ipfs/QmW6d8s6jnQT3eTmr3TmEtqFaeiQW9TFecnXxavfMu9P7u"
 			]
 		}
 	},
